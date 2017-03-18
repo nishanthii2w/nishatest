@@ -11,6 +11,9 @@
  *
  * @package WordPress
  */
+/*
+ * this is equals testingssdfsdf testingsd
+*/
 
 require_once( dirname( __FILE__ ) . '/wp-load.php' );
 
