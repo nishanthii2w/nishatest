@@ -92,3 +92,5 @@ if ( file_exists( ABSPATH . 'wp-config.php') ) {
 
 	wp_die( $die, __( 'WordPress &rsaquo; Error' ) );
 }  ?>
+
+<div>testing</div>
